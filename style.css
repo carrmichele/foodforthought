@@ -1,0 +1,63 @@
+body {
+	text-transform:capitalize;
+  font-weight:700;
+  color:#cccccc;
+  font-size:20px;
+  max-width:600px;
+  letter-spacing:3px;
+  line-height:50px;
+ }
+}
+
+img {
+  margin:% 50%;
+
+}
+
+
+#quote{
+	font-family: 'Oswald', sans-serif;
+position: right;
+  bottom:0;
+  right:0;
+  text-align:right;
+  margin:2% 2% 10% 2%;
+  font-size: 35px;
+  text-shadow: 1px 1px #777777;
+}
+
+#quote-author{
+	font-family: 'Oswald', sans-serif;
+  position:right;
+	 text-align:right;
+  bottom:0;
+  right:0;
+  margin:5% 2%;
+}
+/* button styles */
+
+
+.button{
+		font-family: 'Oswald', sans-serif;
+	  font-size:20px;
+	margin:2%;
+  text-align:right;
+	
+}
+a{
+	text-align: right;
+  color:white;
+  margin:2%;
+}
+/* end button styles */
+.footer {
+	color: #cccccc !important;
+		font-family: 'Oswald', sans-serif;
+	margin-bottom: 0;
+}
+
+
+
+
+
+

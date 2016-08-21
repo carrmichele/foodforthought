@@ -1,5 +1,5 @@
 # Title: Food For Thought Quotes
-Random Quote Generator made with pure Javascript
+Random Quote Generator made with jQuery
 
 #Author
 ![@carrmichele](https://avatars0.githubusercontent.com/carrmichele?&s=128)

@@ -1,15 +1,20 @@
-# Title: Food For Thought Quotes
-Random Quote Generator made with jQuery
+# Random Quote Machine
 
-#Author
-![@carrmichele](https://avatars0.githubusercontent.com/carrmichele?&s=128)
-
-Created by: Carrmichele
+Intermediate Javascript front end web development project as part of the Freecodecamp certificate program.
 
 
-[Github](https://github.com/carrmichele) | [FreeCodeCamp](http://www.freecodecamp.com/carrmichele) | [CodePen](http://codepen.io/caromichel/) | [LinkedIn](https://www.linkedin.com/in/caroline-gordon-318a68112
-) 
+### User stories: 
 
-#Live Example:
+  - User can click a button to show a new random quote.
+  - User can press a button to tweet out a quote.
 
-https://codepen.io/caromichel/full/EyjbPO
+
+### Live Version:
+https://codepen.io/caromichel/full/EyxzZp/
+
+### Requirements:
+- Twitter API
+- jQuery
+- HTML5
+- CSS3
+
